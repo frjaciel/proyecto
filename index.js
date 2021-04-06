@@ -6,10 +6,15 @@ const app = express();
 app.use(express.static('./dist/puma-proyect'));
 
 app.get('/*', function (req, res) {
-    res.sendFile('index.html', { root: 'dist/puma-proyect' }
-    );
+  res.sendFile('index.html', {
+    root: 'dist/puma-proyect'
   });
-  
+});
+
+app.get('/servicio-rest', (req, res) => {
+  return res.send('Metodo get');
+});
+
 /*const path = require('path');
 
 const app = express();
