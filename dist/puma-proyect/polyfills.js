@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\UNAH\Industria\Proyecto Industria\puma-proyect-master\puma-proyect\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! C:\proyecto\src\polyfills.ts */"hN/g");
 
 
 /***/ }),

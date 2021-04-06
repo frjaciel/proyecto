@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\UNAH\Industria\Proyecto Industria\puma-proyect-master\puma-proyect\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! C:\proyecto\src\main.ts */"zUnb");
 
 
 /***/ }),
@@ -85,7 +85,7 @@ class HomeComponent {
     }
 }
 HomeComponent.ɵfac = function HomeComponent_Factory(t) { return new (t || HomeComponent)(); };
-HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 50, vars: 0, consts: [[1, "container-fluid"], [1, "row"], [1, "col", "ml-3", "my-auto", "px-5"], [1, "text-center", "mb-3"], [1, "lead"], ["type", "button", 1, "btn", "bg-color", "rounded-pill", "px-5"], [1, "col", "mr-auto"], ["src", "../assets/images/fondo.png", 1, "mb-3", 2, "height", "628px", "width", "647px"], [1, "row", "bg-light"], ["src", "../assets/images/servicios.png", 1, "mb-5", 2, "height", "400px"], [1, "col", "ml-3", "my-auto", "pr-4"], [1, "text-center", "mb-4"], [1, "row", "mx-auto"], ["type", "button", 1, "btn", "mx-auto", "bg-color", "rounded-pill", "px-5", "mt-4"], [1, "col"], ["src", "../assets/images/contacto.jpg", 1, "mb-3", "ml-4", 2, "height", "430px"], [1, "text-center", "mb-5"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
+HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 50, vars: 0, consts: [[1, "container-fluid"], [1, "row"], [1, "col", "ml-3", "my-auto", "px-5"], [1, "text-center", "mb-3"], [1, "lead"], ["type", "button", 1, "btn", "bg-color", "rounded-pill", "px-5"], [1, "col", "mr-auto"], ["src", "assets/images/fondo.png", 1, "mb-3", 2, "height", "628px", "width", "647px"], [1, "row", "bg-light"], ["src", "assets/images/servicios.png", 1, "mb-5", 2, "height", "400px"], [1, "col", "ml-3", "my-auto", "pr-4"], [1, "text-center", "mb-4"], [1, "row", "mx-auto"], ["type", "button", 1, "btn", "mx-auto", "bg-color", "rounded-pill", "px-5", "mt-4"], [1, "col"], ["src", "assets/images/contacto.jpg", 1, "mb-3", "ml-4", 2, "height", "430px"], [1, "text-center", "mb-5"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -166,7 +166,7 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: [".bg-color[_ngcontent-%COMP%]{\n    background-color: #5C6AB1;\n    color: white;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhvbWUuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHlCQUF5QjtJQUN6QixZQUFZO0FBQ2hCIiwiZmlsZSI6ImhvbWUuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5iZy1jb2xvcntcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjNUM2QUIxO1xuICAgIGNvbG9yOiB3aGl0ZTtcbn0iXX0= */"] });
+    } }, styles: [".bg-color[_ngcontent-%COMP%]{\r\n    background-color: #5C6AB1;\r\n    color: white;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhvbWUuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHlCQUF5QjtJQUN6QixZQUFZO0FBQ2hCIiwiZmlsZSI6ImhvbWUuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5iZy1jb2xvcntcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICM1QzZBQjE7XHJcbiAgICBjb2xvcjogd2hpdGU7XHJcbn0iXX0= */"] });
 
 
 /***/ }),
@@ -224,7 +224,7 @@ HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, directives: [_ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NgbNavbar"]], styles: [".bg-color[_ngcontent-%COMP%]{\n    background-color: #FFE50B;\n    color: black;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhlYWRlci5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0kseUJBQXlCO0lBQ3pCLFlBQVk7QUFDaEIiLCJmaWxlIjoiaGVhZGVyLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYmctY29sb3J7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogI0ZGRTUwQjtcbiAgICBjb2xvcjogYmxhY2s7XG59Il19 */"] });
+    } }, directives: [_ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_1__["NgbNavbar"]], styles: [".bg-color[_ngcontent-%COMP%]{\r\n    background-color: #FFE50B;\r\n    color: black;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhlYWRlci5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0kseUJBQXlCO0lBQ3pCLFlBQVk7QUFDaEIiLCJmaWxlIjoiaGVhZGVyLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYmctY29sb3J7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRkZFNTBCO1xyXG4gICAgY29sb3I6IGJsYWNrO1xyXG59Il19 */"] });
 
 
 /***/ }),
